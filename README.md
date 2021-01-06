@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-script src="https://kit.fontawesome.com/bd5bfb5900.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/bd5bfb5900.js" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.gstatic.com">
 Here are some ideas to get you started:
 
