@@ -17,9 +17,9 @@
 [<img align="left" alt="YuvaneshNagarajan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="YuvaneshNagarajan Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][Hackerrank]
 
+<br>
 
-
---
+---
 ### Programming Languages :
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
