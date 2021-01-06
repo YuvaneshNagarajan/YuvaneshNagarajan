@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-
+script src="https://kit.fontawesome.com/bd5bfb5900.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
 Here are some ideas to get you started:
 
 - 🌱 I’m currently pursuing B.E in Velammal Engineering College ...
@@ -11,6 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
+<a href="https://www.linkedin.com/in/yuvaneshwaran-nagarajan-a00087145/"><button class="btn"><i class="fab fa-linkedin"></i> </button></a>
 
