@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently pursuing B.E in Velammal Engineering College ...
 - 👯 I’m looking to collaborate with some other developers ...
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: **yuvaneshnagarajan@gmail.com**
 
 ---
@@ -17,8 +16,10 @@
 [<img align="left" alt="YuvaneshNagarajan LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="YuvaneshNagarajan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="YuvaneshNagarajan Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][Hackerrank]
+
 ---
-### 💬 Well Known Programming Languages
+
+### Programming Languages :
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 <!-- <img src="" width="40" height="40"/> -->
