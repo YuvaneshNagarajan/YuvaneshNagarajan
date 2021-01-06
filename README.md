@@ -29,3 +29,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
  
  ---
+ 
+ <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="YuvaneshNagarajan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gomathishankar37&show_icons=true&hide_border=true&hide=prs,issues,contribs&theme=radical" />
+
+## </details>
+
+[Facebook]:https://www.facebook.com/yuvanesh.nagarajan.7
+[GitHub]:https://github.com/YuvaneshNagarajan
+[Linkedin]:https://www.linkedin.com/in/yuvaneshwaran-nagarajan-a00087145/
+[Instagram]:https://www.instagram.com/___yuvanesh_nagarajan_/
+[Hackerrank]:https://www.hackerrank.com/yuvaneshwaran091?hr_r=1
