@@ -17,8 +17,9 @@
 [<img align="left" alt="YuvaneshNagarajan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="YuvaneshNagarajan Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][Hackerrank]
 
----
 
+
+--
 ### Programming Languages :
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
@@ -34,7 +35,7 @@
  <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="YuvaneshNagarajan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gomathishankar37&show_icons=true&hide_border=true&hide=prs,issues,contribs&theme=radical" />
+  <img align="left" alt="YuvaneshNagarajan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YuvaneshNagarajan&show_icons=true&hide_border=true&hide=prs,issues,contribs&theme=radical" />
 
 ## </details>
 
